@@ -1,0 +1,4 @@
+target/
+*.jar.*deploy
+/*.jar
+.DS_Store

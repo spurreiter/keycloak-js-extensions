@@ -1,0 +1,7 @@
+{
+  "mappers": [{
+    "name": "Request Header Mapper",
+    "fileName": "request-header-oidc-mapper.js",
+    "description": "Oidc token mapper for request header"
+  }]
+}
